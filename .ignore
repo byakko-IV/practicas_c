@@ -3,4 +3,5 @@
 $ cat .gitignore
 *.[oa]
 *~
+/ejecutables
 ejecutables/
