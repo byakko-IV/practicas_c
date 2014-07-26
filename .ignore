@@ -1,0 +1,6 @@
+#configurando los archivos y directorios a ignorar
+
+$ cat .gitignore
+*.[oa]
+*~
+ejecutables/
